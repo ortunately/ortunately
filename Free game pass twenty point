@@ -1,0 +1,8 @@
+game.ReplicatedStorage.Aka1:FireServer()
+game.ReplicatedStorage.Aka2:FireServer()
+game.ReplicatedStorage.Aka3:FireServer()
+game.ReplicatedStorage.Aka4:FireServer()
+game.ReplicatedStorage.Aka5:FireServer()
+game.ReplicatedStorage.Aka6:FireServer()
+game.ReplicatedStorage.Aka7:FireServer()
+game.ReplicatedStorage.Give:FireServer()
